@@ -29,6 +29,12 @@ A dedicated admin page will be designed to empower administrators with the abili
 Stripe Payment System Integration:
 To enhance the e-commerce experience, I am committed to integrating the Stripe payment system. This will provide users with a secure, efficient, and trusted payment gateway for seamless transactions.
 ## Screenshots
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/cc2ff613-e9a3-4571-a29f-0901fa258ce9)
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/80e23b22-c599-41d1-a0eb-c44e3a2576b6)
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/41a7af46-d86b-4a34-8947-af4914138ebd)
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/d6a0493b-623a-4263-aba3-91a279238cb4)
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/b37fb629-127e-42e8-8690-d290da413067)
+![image](https://github.com/Akashsharma202/TanX-Ecommerce/assets/46256481/697cf124-c760-4021-8fe4-d9d8a83fc519)
 
-![App Screenshot](https://drive.google.com/file/d/1P516JphOIjIycD_z0O9fyHM8yzQFXBU7/view?usp=sharing/468x300?text=App+Screenshot+Here)
+
 
